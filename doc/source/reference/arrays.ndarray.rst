@@ -487,6 +487,9 @@ Unary operations:
    ndarray.__abs__
    ndarray.__invert__
 
+The :meth:`ndarray.__abs__` method returns the absolute value of each element,
+equivalent to `numpy.absolute`.
+
 Arithmetic:
 
 .. autosummary::
